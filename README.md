@@ -1,4 +1,4 @@
-![E125B0CB-43E0-454F-830F-EA9DF11DC265](https://github.com/user-attachments/assets/c31c9f6e-1809-43b2-9701-5d03d9254bc2)
+<img width="275" height="252" alt="image" src="https://github.com/user-attachments/assets/dd65f8f2-2898-4d54-b238-f7675ffe1254" />
 
 # Hi there! i'm NaiveCat!
 
