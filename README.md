@@ -1,5 +1,4 @@
-
-<img width="300" height="300" alt="1726717207" src="https://github.com/user-attachments/assets/2b1c0b20-0cb2-44eb-9899-a169d32f75b6" />
+![E125B0CB-43E0-454F-830F-EA9DF11DC265](https://github.com/user-attachments/assets/c31c9f6e-1809-43b2-9701-5d03d9254bc2)
 
 # Hi there! i'm NaiveCat!
 
