@@ -74,5 +74,5 @@ class ITA2Decoder:
 
 if __name__ == '__main__':
     test_list = [0b00110, 0b00100, 0b00100, 0b00100]
-    result = ITA2Decoder(test_list).run(False, 3)
+    result = ITA2Decoder(test_list).run(True, 44)
     print(result)
